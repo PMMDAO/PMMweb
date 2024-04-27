@@ -1,0 +1,1566 @@
+@media (max-width: 575px) {
+
+    .btn {
+        font-size: 16px;
+    }
+
+    h1 {
+        font-size: 44px;
+        font-weight: 700;
+    }
+
+    h2 {
+        font-size: 38px;
+        font-weight: 700;
+    }
+
+    h3 {
+        font-size: 32px;
+        font-weight: 700;
+    }
+
+    h4 {
+        font-size: 26px;
+        font-weight: 600;
+    }
+
+    h5 {
+        font-size: 22px;
+        font-weight: 600;
+    }
+
+    h6 {
+        font-size: 18px;
+        font-weight: 500;
+    }
+
+    p {
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+
+    body {
+        font-size: 16px;
+    }
+    .btn{
+        width: 110px;
+        height: 40px;
+    }
+    .hero-section{
+        padding: 50px 0;
+    }
+    .hero-section .container .row{
+        gap: 50px;
+    }
+    .hero-section .text-content p{
+        margin: 30px 0;
+    }
+    .about-us .container .row{
+        gap: 25px;
+    }
+    .about-us p{
+        margin: 30px 0;
+    }
+    .about-us{
+        padding: 50px 0;
+    }
+    .features{
+        padding: 50px 0;
+    }
+    .features h6{
+        margin-bottom: 10px;
+    }
+    .features h2{
+        margin-bottom: 20px;
+    }
+    .features .title p{
+        margin-bottom: 25px;
+    }
+    .features .content{
+        gap: 20px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .chain{
+        padding: 50px 0;  
+    }
+    .chain h6{
+        margin-bottom: 10px;
+    }
+    .chain h2{
+        margin-bottom: 20px;
+    }
+    .counter{
+        padding: 50px 0;
+    }
+    .counter .counter-content-1, .counter-content-2, .counter-content-3, .counter-content-4{
+        padding: 20px 0;
+    }   
+    .working-process{
+        padding: 50px 0;
+    }
+    .working-process .title h2{
+        padding-bottom  : 25px;
+    }
+    .working-process .working-process-content .content-image{
+        padding-top: 50px;
+        margin: 0 auto;
+    }
+    .working-process-content-1, .working-process-content-2, .working-process-content-3{
+        gap: 20px;
+    }
+    .working-process .working-process-content-2{
+        margin: 30px 0;
+    }
+    .gallery{
+        padding: 50px 0;
+    }
+    .gallery .content-text p{
+        margin: 10px 0;
+    }
+    .gallery .title h2{
+        margin-bottom: 15px;
+    }
+    .gallery .content-image{
+        gap: 40px;
+        margin-top: 15px;
+    }
+    .gallery .content{
+        flex-direction:column-reverse;
+    }
+    .benefits{
+        padding: 50px 0;
+    }
+    .benefits .title h2{
+        margin-bottom: 25px;
+    }
+    .benefits .content{
+        gap: 25px;
+    }
+    .benefits-content-1, .benefits-content-2, .benefits-content-3{
+        gap: 20px;
+    }
+    .benefits-content-2{
+        margin: 30px 0;
+    }
+    .benefits .content-image{
+        margin: 0 auto;
+    }
+    .expert-team{
+        padding: 50px 0;
+    }
+    .expert-team h2{
+        margin-bottom: 25px;
+    }
+    .expert-team .content .person-1, .person-2, .person-3, .person-4{
+        gap: 20px;
+    }
+    .expert-team .content{
+        gap:30px;
+    }
+    .latest-news{
+        padding: 50px 0;
+    }
+    .blog-1, .blog-2, .blog-3, .blog-4, .blog-5, .blog-6, .blog-7, .blog-8, .blog-9{
+        gap: 10px;
+    }
+    .latest-news .content {
+        gap: 20px;
+    }
+    .latest-news .title h2{
+        margin-bottom: 25px;
+    }
+    .footer .top-footer{
+        padding: 50px 0;
+    }
+    .information ul li i{
+        font-size: 16px;
+    }
+    .footer .top-footer .icons i{
+        font-size: 16px;
+    }
+    .email i{
+        width: 30px;
+        height: 30px;
+    }
+    .call i{
+        width: 30px;
+        height: 30px;
+    }
+    .location i{
+        width: 30px;
+        height: 30px;   
+    }
+    .facebook, .twitter, .linked-in, .instagram{
+        width: 30px;
+        height: 30px;
+    }
+    .about{
+        padding: 100px 0;
+    }
+    .about-us-section{
+        padding: 50px 0;
+    }
+    .about-us-section .title h2{
+        margin-bottom: 25px;
+    }
+    .about-us-section .content-text .about-content-2, .about-content-3, .about-content-4{
+        margin-top: 20px;
+    }
+    .about-us-section .content-text .about-content-1 p{
+        margin-top: 10px;
+    }
+    .about-us-section .content-text .about-content-2 p{
+        margin-top: 10px;
+    }
+    .about-us-section .content-text .about-content-3 p{
+        margin-top: 10px;
+    }
+    .about-us-section .content-text .about-content-4 p{
+        margin-top: 10px;
+    }
+    .faq{
+        padding: 50px 0;
+    }
+    .faq .content{
+        gap: 25px;
+        margin-top: 25px;
+    }
+    .testimonial {
+        padding: 50px 0;
+    }
+    .testimonial h2 {
+        margin-bottom: 25px;
+    }
+    .pricing{
+        padding: 100px 0;
+    }
+    .best-plan{
+        padding: 50px 0;
+    }
+    .best-plan .content{
+        margin-top: 25px;
+    }
+    .best-plan .content-text{
+        margin-top: 25px;
+    }
+    .best-plan .content-text .plan-content-2{
+        margin: 30px 0;
+    }
+    .best-plan .content-text h5{
+        margin: 10px 0;
+    }
+    .pricing-table .pricing-table-content .title-description{
+        margin-bottom: 20px;
+    }
+    .pricing-table .pricing-table-content .service-btn{
+        margin-top: 20px;
+    }
+    .pricing-table .pricing-table-content img{
+        margin: 10px 0;
+    }
+    .pricing-table .pricing-table-content{
+        padding: 30px;
+    }
+    .pricing-table .pricing-table-content .btn-coustom{
+        padding-top: 30px;
+    }
+    .pricing-table {
+        padding: 50px 0;
+    }
+    .pricing-table .content{
+        margin-top: 25px;
+    }
+
+    .blog-hero-section{
+        padding: 100px 0;
+    }
+    .blog{
+        padding: 50px 0;
+    }
+    .blog-1, .blog-2, .blog-3, .blog-4, .blog-5, .blog-6, .blog-7, .blog-8, .blog-9{
+        gap: 10px;
+    }
+    .blog .content {
+        gap: 20px;
+    }
+    .blog .title h2{
+        margin-bottom: 25px;
+    }
+    .contact-us{
+        padding: 100px 0;
+    }
+    .contact-us-section{
+        padding: 50px 0;
+    }
+    .contact-us-section .title{
+        margin-bottom: 25px;
+    }
+    .contact-us-section .title h2{
+        margin-bottom: 10px;
+    }
+    .contact-us-section .content .email{
+        margin: 30px 0;
+    }
+    .contact-us-section .content .call{
+        gap: 24px;
+    }
+    .contact-us-section .content .email{
+        gap: 24px;
+    }
+    .contact-us-section .content .location{
+        gap: 24px;
+    }
+    .contact-us-section .content p{
+        margin-top: 10px;
+    }
+    .road-map{
+        padding: 50px 0;
+    }
+    .road-map .title h2{
+        margin-bottom: 25px;
+    }
+    .footer .top-footer .logo-contact .logo{
+        margin-bottom: 25px;
+    }
+    .footer .top-footer .logo-contact p{
+        margin-bottom: 10px;
+    }
+    .footer .top-footer .follow-us{
+        margin-top: 25px;
+    }
+    .footer .top-footer .follow-us h6{
+        margin-bottom: 14px;
+    }
+    .footer .top-footer .links h6{
+        margin-bottom: 14px;
+    }
+    .footer .top-footer .community h6{
+        margin-bottom: 14px;
+    }
+    .footer .top-footer .information h6{
+        margin-bottom: 14px;
+    }
+    .footer .top-footer .links ul li{
+        margin-bottom: 10px;
+    }
+    .footer .top-footer .community ul li{
+        margin-bottom: 10px;
+    }
+    .footer .top-footer .information ul li{
+        margin-bottom: 10px;
+    }
+    .working-process .content-text::after{
+        display: none;
+    }
+    
+    
+}
+
+
+@media (min-width: 576px) {
+
+    h1 {
+        font-size: 44px;
+        font-weight: 700;
+    }
+
+    h2 {
+        font-size: 38px;
+        font-weight: 700;
+    }
+
+    h3 {
+        font-size: 32px;
+        font-weight: 700;
+    }
+
+    h4 {
+        font-size: 26px;
+        font-weight: 600;
+    }
+
+    h5 {
+        font-size: 22px;
+        font-weight: 600;
+    }
+
+    h6 {
+        font-size: 18px;
+        font-weight: 500;
+    }
+
+    p {
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+    body {
+        font-size: 16px;
+    }
+    .btn{
+        width: 110px;
+        height: 40px;
+    }
+    .btn{
+        width: 120px;
+        height: 44px;
+    }
+    .hero-section{
+        padding: 50px 0;
+    }
+    .hero-section .container .row{
+        gap: 50px;
+    }
+    .hero-section .text-content p{
+        margin: 30px 0;
+    }
+    .about-us .container .row{
+        gap: 25px;
+    }
+    .about-us p{
+        margin: 30px 0;
+    }
+    .about-us{
+        padding: 50px 0;
+    }
+    .features{
+        padding: 50px 0;
+    }
+    .features h6{
+        margin-bottom: 10px;
+    }
+    .features h2{
+        margin-bottom: 20px;
+    }
+    .features .title p{
+        margin-bottom: 25px;
+    }
+    .features .content{
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+    .chain{
+        padding: 50px 0;  
+    }
+    .chain h6{
+        margin-bottom: 10px;
+    }
+    .chain h2{
+        margin-bottom: 20px;
+    }
+    .counter{
+        padding: 50px 0;
+    }
+    .counter .counter-content-1, .counter-content-2, .counter-content-3, .counter-content-4{
+        padding: 20px 0;
+    } 
+    .working-process{
+        padding: 50px 0;
+    }
+    .working-process .title h2{
+        padding-bottom  : 25px;
+    }
+    .working-process .working-process-content .content-image{
+        padding-top: 50px;
+    }
+    .working-process-content-1, .working-process-content-2, .working-process-content-3{
+        gap: 20px;
+    }
+    .working-process .working-process-content-2{
+        margin: 30px 0;
+    }
+    .gallery{
+        padding: 50px 0;
+    }
+    .gallery .content-text p{
+        margin: 10px 0;
+    }
+    .gallery .title h2{
+        margin-bottom: 15px;
+    }
+    .gallery .content-image{
+        gap: 40px;
+        margin-top: 15px;
+    }
+    .gallery .content{
+        flex-direction:column-reverse;
+    }
+    .benefits{
+        padding: 50px 0;
+    }
+    .benefits .title h2{
+        margin-bottom: 25px;
+    }
+    .benefits .content{
+        gap: 25px;
+    }
+    .benefits-content-1, .benefits-content-2, .benefits-content-3{
+        gap: 20px;
+    }
+    .benefits-content-2{
+        margin: 30px 0;
+    }
+    .benefits .content-image{
+        margin: 0   ;
+    }
+    .expert-team{
+        padding: 50px 0;
+    }
+    .expert-team h2{
+        margin-bottom: 25px;
+    }
+    .expert-team .content .person-1, .person-2, .person-3, .person-4{
+        gap: 20px;
+    }
+    .expert-team .content{
+        gap:30px;
+    }
+    .latest-news{
+        padding: 50px 0;
+    }
+    .blog-1, .blog-2, .blog-3, .blog-4, .blog-5, .blog-6, .blog-7, .blog-8, .blog-9{
+        gap: 10px;
+    }
+    .latest-news .content {
+        gap: 20px;
+    }
+    .latest-news .title h2{
+        margin-bottom: 25px;
+    }
+    .footer .top-footer{
+        padding: 50px 0;
+    }
+    .information ul li i{
+        font-size: 16px;
+    }
+    .footer .top-footer .icons i{
+        font-size: 16px;
+    }
+    .email i{
+        width: 30px;
+        height: 30px;
+    }
+    .call i{
+        width: 30px;
+        height: 30px;
+    }
+    .location i{
+        width: 30px;
+        height: 30px;   
+    }
+    .facebook, .twitter, .linked-in, .instagram{
+        width: 30px;
+        height: 30px;
+    }
+    .about{
+        padding: 100px 0;
+    }
+    .about-us-section{
+        padding: 50px 0;
+    }
+    .about-us-section .title h2{
+        margin-bottom: 25px;
+    }
+    .about-us-section .title h2{
+        margin-bottom: 25px;
+    }
+    .about-us-section .content-text .about-content-2, .about-content-3, .about-content-4{
+        margin-top: 20px;
+    }
+    .about-us-section .content-text .about-content-1 p{
+        margin-top: 10px;
+    }
+    .about-us-section .content-text .about-content-2 p{
+        margin-top: 10px;
+    }
+    .about-us-section .content-text .about-content-3 p{
+        margin-top: 10px;
+    }
+    .about-us-section .content-text .about-content-4 p{
+        margin-top: 10px;
+    }
+    .faq{
+        padding: 50px 0;
+    }
+    .faq .content{
+        gap: 25px;
+        margin-top: 25px;
+    }
+    .testimonial {
+        padding: 50px 0;
+    }
+    .testimonial h2 {
+        margin-bottom: 25px;
+    }
+    .pricing{
+        padding: 100px 0;
+    }
+    .best-plan{
+        padding: 50px 0;
+    }
+    .best-plan .content{
+        margin-top: 25px;
+    }
+    .best-plan .content-text{
+        margin-top: 25px;
+    }
+    .best-plan .content-text .plan-content-2{
+        margin: 30px 0;
+    }
+    .best-plan .content-text h5{
+        margin: 10px 0;
+    }
+    .pricing-table .pricing-table-content .title-description{
+        margin-bottom: 20px;
+    }
+    .pricing-table .pricing-table-content .service-btn{
+        margin-top: 20px;
+    }
+    .pricing-table .pricing-table-content img{
+        margin: 10px 0;
+    }
+    .pricing-table .pricing-table-content{
+        padding: 20px 20px 30px 20px;
+    }
+    .pricing-table .pricing-table-content .btn-coustom{
+        padding-top: 30px;
+    }
+    .pricing-table {
+        padding: 50px 0;
+    }
+    .pricing-table .content{
+        margin-top: 25px;
+    }
+    .blog-hero-section{
+        padding: 50px 0;
+    }
+    .blog{
+        padding: 50px 0;
+    }
+    .blog .content {
+        gap: 20px;
+    }
+    .blog .title h2{
+        margin-bottom: 25px;
+    }
+    .contact-us{
+        padding: 100px 0;
+    }
+    .contact-us-section{
+        padding: 50px 0;
+    }
+    .contact-us-section .title{
+        margin-bottom: 25px;
+    }
+    .contact-us-section .title h2{
+        margin-bottom: 10px;
+    }
+    .contact-us-section .content .email{
+        margin: 30px 0;
+    }
+    .contact-us-section .content .call{
+        gap: 24px;
+    }
+    .contact-us-section .content .email{
+        gap: 24px;
+    }
+    .contact-us-section .content .location{
+        gap: 24px;
+    }
+    .contact-us-section .content p{
+        margin-top: 10px;
+    }
+    .road-map{
+        padding: 50px 0;
+    }
+    .road-map .title h2{
+        margin-bottom: 25px;
+    }
+    .working-process .content-text::after{
+        content: '';
+        position: absolute;
+        width: 2px;
+        height: 300px;
+        background-color: var(--seconday-color);
+        color: red;
+        top: 0%;
+        left: 5.7%;
+    }
+    .footer .top-footer .logo-contact .logo{
+        margin-bottom: 25px;
+    }
+    .footer .top-footer .logo-contact p{
+        margin-bottom: 10px;
+    }
+    .footer .top-footer .follow-us{
+        margin-top: 25px;
+    }
+    .footer .top-footer .follow-us h6{
+        margin-bottom: 14px;
+    }
+    .footer .top-footer .links h6{
+        margin-bottom: 14px;
+    }
+    .footer .top-footer .community h6{
+        margin-bottom: 14px;
+    }
+    .footer .top-footer .information h6{
+        margin-bottom: 14px;
+    }
+    .footer .top-footer .links ul li{
+        margin-bottom: 10px;
+    }
+    .footer .top-footer .community ul li{
+        margin-bottom: 10px;
+    }
+    .footer .top-footer .information ul li{
+        margin-bottom: 10px;
+    }
+
+
+
+}
+
+@media (min-width: 768px) {
+    h1 {
+        font-size: 54px;
+        font-weight: 700;
+    }
+
+    h2 {
+        font-size: 48px;
+        font-weight: 700;
+    }
+
+    h3 {
+        font-size: 42px;
+        font-weight: 700;
+    }
+
+    h4 {
+        font-size: 36px;
+        font-weight: 600;
+    }
+
+    h5 {
+        font-size: 30px;
+        font-weight: 600;
+    }
+
+    h6 {
+        font-size: 24px;
+        font-weight: 500;
+    }
+
+    p {
+        font-size: 18px;
+        font-weight: 400;
+    }
+
+    body {
+        font-size: 18px;
+    }
+    .hero-section .text-content p{
+        margin: 20px 0;
+    }
+    .about-us .container .row{
+        gap: 40px;
+    }
+    .about-us{
+        padding: 80px 0;
+    }
+    .features{
+        padding: 80px 0;
+    }
+    .features .title p{
+        margin-bottom: 40px;
+    }
+    .features .content{
+        gap: 30px;
+        justify-content: center;
+    }
+    .chain{
+        padding: 80px 0;  
+    }
+    .chain h2{
+        margin-bottom: 40px;
+    }
+    .counter{
+        padding: 80px 0;
+    }
+    .counter .counter-content-1, .counter-content-2, .counter-content-3, .counter-content-4{
+        padding: 30px 0;
+    } 
+    .working-process{
+        padding: 80px 0;
+    }
+    .working-process .title h2{
+        padding-bottom  : 40px;
+    }
+    .working-process .working-process-content .content-image{
+        padding-top: 40px;
+        margin: 0 auto;
+    }
+    .working-process-content-1, .working-process-content-2, .working-process-content-3{
+        gap: 30px;
+    }
+    .working-process .working-process-content-2{
+        margin: 40px 0;
+    }
+    .gallery{
+        padding: 80px 0;
+    }
+    .gallery .content-text p{
+        margin: 20px 0;
+    }
+    .gallery .title h2{
+        margin-bottom: 25px;
+    }
+    .gallery .content-image{
+        gap: 40px;
+        margin-top: 20px;
+    }
+    .gallery .content{
+        flex-direction:column-reverse;
+    }
+    .benefits{
+        padding: 80px 0;
+    }
+    .benefits .title h2{
+        margin-bottom: 40px;
+    }
+    .benefits .content{
+        gap: 40px;
+    }
+    .benefits-content-2{
+        margin: 40px 0;
+    }
+    .benefits .content-image{
+        margin: 0 auto  ;
+    }
+    .expert-team{
+        padding: 80px 0;
+    }
+    .expert-team h2{
+        margin-bottom: 40px;
+    }
+    .expert-team .content .person-1, .person-2, .person-3, .person-4{
+        gap: 20px;
+    }
+    .latest-news{
+        padding: 80px 0;
+    }
+    .blog-1, .blog-2, .blog-3, .blog-4, .blog-5, .blog-6, .blog-7, .blog-8, .blog-9{
+        gap: 14px;
+    }
+    .latest-news .content {
+        gap: 50px;
+    }
+    .latest-news .title h2{
+        margin-bottom: 40px;
+    }
+    .footer .top-footer{
+        padding: 80px 0;
+    }
+    .information ul li i{
+        font-size: 18px;
+    }
+    .footer .top-footer .icons i{
+        font-size: 18px;
+    }
+    .email i{
+        width: 34px;
+        height: 34px;
+    }
+    .call i{
+        width: 34px;
+        height: 34px;
+    }
+    .location i{
+        width: 34px;
+        height: 34px;   
+    }
+    .facebook, .twitter, .linked-in, .instagram{
+        width: 34px;
+        height: 34px;
+    }
+    .about{
+        padding: 120px 0;
+    }
+    .about-us-section{
+        padding: 80px 0;
+    }
+    .about-us-section .title h2{
+        margin-bottom: 40px;
+    }
+    .about-us-section .title h2{
+        margin-bottom: 25px;
+    }
+    .about-us-section .content-text .about-content-2, .about-content-3, .about-content-4{
+        margin-top: 30px;
+    }
+    .faq{
+        padding: 80px 0;
+    }
+    .faq .content{
+        gap: 40px;
+        margin-top: 40px;
+    }
+    .testimonial {
+        padding: 80px 0;
+    }
+    .testimonial h2 {
+        margin-bottom: 40px;
+    }
+    .pricing{
+        padding: 120px 0;
+    }
+    .best-plan{
+        padding: 80px 0;
+    }
+    .best-plan .content{
+        margin-top: 40px;
+    }
+    .best-plan .content-text{
+        margin-top: 40px;
+    }
+    .best-plan .content-text .plan-content-2{
+        margin: 30px 0;
+    }
+    .best-plan .content-text h5{
+        margin: 10px 0;
+    }
+    .pricing-table .pricing-table-content .title-description{
+        margin-bottom: 30px;
+    }
+    .pricing-table .pricing-table-content .service-btn{
+        margin-top: 30px;
+    }
+    .pricing-table .pricing-table-content img{
+        margin: 14px 0;
+    }
+    .pricing-table .pricing-table-content{
+        padding: 20px 20px 30px 20px;
+    }
+    .pricing-table .pricing-table-content .btn-coustom{
+        padding-top: 40px;
+    }
+    .pricing-table {
+        padding: 80px 0;
+    }
+    .pricing-table .content{
+        margin-top: 40px;
+    }
+    .blog-hero-section{
+        padding: 80px 0;
+    }
+    .blog{
+        padding: 120px 0;
+    }
+    .blog .content {
+        gap: 50px;
+        justify-content: center !important;
+    }
+    .blog .title h2{
+        margin-bottom: 40px;
+    }
+    .contact-us{
+        padding: 120px 0;
+    }
+    .contact-us-section{
+        padding: 80px 0;
+    }
+    .contact-us-section .title{
+        margin-bottom: 40px;
+    }
+    .contact-us-section .content .email{
+        margin: 40px 0;
+    }
+    .contact-us-section .content .call{
+        gap: 34px;
+    }
+    .contact-us-section .content .email{
+        gap: 34px;
+    }
+    .contact-us-section .content .location{
+        gap: 34px;
+    }
+    .road-map .content-1, .content-2, .content-3, .content-4, .content-5, .content-6{
+        gap: 0 !important;
+    }
+    .road-map{
+        padding: 80px 0;
+    }
+    .road-map .title h2{
+        margin-bottom: 40px;
+    }
+    .working-process .content-text::after{
+        content: '';
+        position: absolute;
+        width: 2px;
+        height: 300px;
+        background-color: var(--seconday-color);
+        color: red;
+        top: 0%;
+        left: 4.5%;
+    }
+    .footer .top-footer .logo-contact .logo{
+        margin-bottom: 30px;
+    }
+    .footer .top-footer .logo-contact p{
+        margin-bottom: 14px;
+    }
+    .footer .top-footer .follow-us{
+        margin-top: 30px;
+    }
+    .footer .top-footer .follow-us h6{
+        margin-bottom: 18px;
+    }
+    .footer .top-footer .links h6{
+        margin-bottom: 18px;
+    }
+    .footer .top-footer .community h6{
+        margin-bottom: 18px;
+    }
+    .footer .top-footer .information h6{
+        margin-bottom: 18px;
+    }
+    .footer .top-footer .links ul li{
+        margin-bottom: 14px;
+    }
+    .footer .top-footer .community ul li{
+        margin-bottom: 14px;
+    }
+    .footer .top-footer .information ul li{
+        margin-bottom: 14px;
+    }
+
+}
+
+@media (min-width: 992px) {
+
+    h1 {
+        font-size: 54px;
+        font-weight: 700;
+    }
+
+    h2 {
+        font-size: 48px;
+        font-weight: 700;
+    }
+
+    h3 {
+        font-size: 42px;
+        font-weight: 700;
+    }
+
+    h4 {
+        font-size: 36px;
+        font-weight: 600;
+    }
+
+    h5 {
+        font-size: 30px;
+        font-weight: 600;
+    }
+
+    h6 {
+        font-size: 24px;
+        font-weight: 500;
+    }
+
+    p {
+        font-size: 18px;
+        font-weight: 400;
+    }
+
+    body {
+        font-size: 18px;
+    }
+    .btn{
+        width: 150px !important;
+        height: 48px !important;
+    }
+    .hero-section{
+        padding: 80px 0;
+    }
+    .hero-section .text-content p{
+        margin: 30px 0;
+    }
+    .features .content{
+        gap: 40px;
+    } 
+    .working-process-content {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .working-process .working-process-content .content-image{
+        padding-top: 0px;
+        width: 450px;
+    }
+    .working-process .working-process-content .content-image{
+        margin: 0;
+    }
+    .gallery .content{
+        flex-direction:row;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .gallery{
+        padding: 80px 0;
+    }
+    .gallery .content-text p{
+        margin: 20px 0;
+    }
+    .gallery .title h2{
+        margin-bottom: 40px;
+    }
+    .gallery .content-image{
+        gap: 40px;
+        margin-top: 0px;
+    }
+    .benefits .content-image{
+        margin: 0 ;
+    }
+    .expert-team .content .person-1, .person-2, .person-3, .person-4{
+        gap: 22px;
+    }
+    .about-us-section .content-image{
+        margin: 0 !important;
+    }
+
+    .road-map{
+        padding: 80px 0;
+    }
+    .road-map .title h2{
+        margin-bottom: 40px;
+    }
+    .r-content-1, .r-content-3, .r-content-5{
+        gap: 160px;
+    }
+    .r-content-2, .r-content-4, .r-content-6{
+        gap: 160px;
+    }
+    .road-map .content .content-text{
+        margin-top: 90px;
+    }
+    .working-process .content-text::after{
+        content: '';
+        position: absolute;
+        width: 2px;
+        height: 375px;
+        background-color: var(--seconday-color);
+        color: red;
+        top: 26%;
+        left: 4%;
+    }
+    .contact-us{
+        padding: 100px 0;
+    }
+    .pricing{
+        padding: 100px 0;
+    }
+    .faq{
+        padding: 100px 0;
+    }
+    .blog{
+        padding: 100px 0;
+    }
+    .about{
+        padding: 100px 0;
+    }  
+    
+    
+}
+
+@media (min-width: 1200px) {
+    h1 {
+        font-size: 64px;
+        font-weight: 700;
+    }
+
+    h2 {
+        font-size: 54px;
+        font-weight: 700;
+    }
+
+    h3 {
+        font-size: 44px;
+        font-weight: 700;
+    }
+
+    h4 {
+        font-size: 38px;
+        font-weight: 600;
+    }
+
+    h5 {
+        font-size: 32px;
+        font-weight: 600;
+    }
+
+    h6 {
+        font-size: 26px;
+        font-weight: 500;
+    }
+
+    p {
+        font-size: 20px;
+        font-weight: 400;
+    }
+    .hero-section{
+        padding: 132px 0;
+    }
+    .hero-section .text-content p{
+        margin: 50px 0;
+    }
+    .about-us .container .row{
+        gap: 50px;
+    }
+    .about-us p{
+        margin: 50px 0;
+    }
+    .about-us{
+        padding: 100px 0;
+    }
+    .features{
+        padding: 100px 0;
+    }
+    .features h2{
+        margin-bottom: 30px;
+    }
+    .features .title p{
+        margin-bottom: 50px;
+    }
+    .features .content{
+        gap: 60px;
+    }
+    .chain{
+        padding: 100px 0;  
+    }
+    .chain h6{
+        margin-bottom: 10px;
+    }
+    .chain h2{
+        margin-bottom: 50px;
+    }
+    .counter{
+        padding: 100px 0;
+    }
+    .counter .counter-content-1, .counter-content-2, .counter-content-3, .counter-content-4{
+        padding: 50px 0;
+    } 
+    .working-process{
+        padding: 100px 0;
+    }
+    .working-process .working-process-content .content-image{
+        padding-top: 0px;
+        width: 540px;
+    }
+    .working-process .title h2{
+        padding-bottom  : 50px;
+    }
+    .working-process-content-1, .working-process-content-2, .working-process-content-3{
+        gap: 50px;
+    }
+    .working-process .working-process-content-2{
+        margin: 50px 0;
+    }
+    .gallery{
+        padding: 100px 0;
+    }
+    .gallery .title h2{
+        margin-bottom: 50px;
+    }
+    .benefits{
+        padding: 100px 0;
+    }
+    .benefits .title h2{
+        margin-bottom: 50px;
+    }
+    .expert-team{
+        padding: 100px 0;
+    }
+    .expert-team h2{
+        margin-bottom: 50px;
+    }
+    .expert-team .content .person-1, .person-2, .person-3, .person-4{
+        gap: 30px;
+    }
+    .expert-team .content{
+        gap:50px;
+    }
+    .expert-team .content .text h6{
+        margin-top: 10px;
+    }
+    .latest-news{
+        padding: 100px 0;
+    }
+    .latest-news .blog-1{
+        width: 400px;
+    }
+    .latest-news .blog-2{
+        width: 400px;
+    }
+    .latest-news .blog-3{
+        width: 400px;
+    }
+    .blog-1, .blog-2, .blog-3, .blog-4, .blog-5, .blog-6, .blog-7, .blog-8, .blog-9{
+        gap: 20px;
+    }
+    .latest-news .content {
+        gap: 0px;
+    }
+    .latest-news .title h2{
+        margin-bottom: 50px;
+    }
+    /* .footer .top-footer .logo-contact p{
+        margin: 20px 0; 
+    }
+    .footer .information h6{
+        margin-bottom: 30px;
+    }
+    .footer .information ul .call{
+        margin: 20px 0;
+    }
+    .follow-us h6{
+        margin-bottom: 30px;
+    }
+    .information ul li i{
+        font-size: 22px;
+    } */
+    .footer .top-footer .icons i{
+        font-size: 22px;
+    }
+    .email i{
+        width: 40px;
+        height: 40px;
+    }
+    .call i{
+        width: 40px;
+        height: 40px;
+    }
+    .location i{
+        width: 40px;
+        height: 40px;   
+    }
+    .facebook, .twitter, .linked-in, .instagram{
+        width: 40px;
+        height: 40px;
+    }
+    .about{
+        padding: 262px 0;
+    }
+    .about-us-section{
+        padding: 100px 0;
+    }
+    .about-us-section .title h2{
+        margin-bottom: 50px;
+    }
+    .about-us-section .content-text .about-content-2, .about-content-3, .about-content-4{
+        margin-top: 40px;
+    }
+    .road-map .content h4{
+        margin: 20px 0;
+    }
+    .r-content-1, .r-content-3, .r-content-5{
+        gap: 190px;
+    }
+    .r-content-2, .r-content-4, .r-content-6{
+        gap: 190px;
+    }
+    .faq{
+        padding: 100px 0;
+    }
+    .faq .content{
+        gap: 50px;
+        margin-top: 50px;
+    }
+    .accordion-item .accordion-.btn{
+        padding-top: 50px;
+    }
+    .testimonial {
+        padding: 100px 0;
+    }
+    .testimonial h2 {
+        margin-bottom: 50px;
+    }
+    .pricing{
+        padding: 262px 0;
+    }
+    .best-plan{
+        padding: 100px 0;
+    }
+    .best-plan .content{
+        margin-top: 50px;
+    }
+    .best-plan .content-text{
+        margin-top: 0px;
+    }
+    .best-plan .content-text .plan-content-2{
+        margin: 30px 0;
+    }
+    .best-plan .content-text h5{
+        margin: 14px 0;
+    }
+    .pricing-table .pricing-table-content .service-btn{
+        margin-top: 30px;
+    }
+    .pricing-table .pricing-table-content img{
+        margin: 15px 0;
+    }
+    .pricing-table .pricing-table-content .btn-coustom{
+        padding-top: 50px;
+    }
+    .pricing-table {
+        padding: 100px 0;
+    }
+    .pricing-table .content{
+        margin-top: 50px;
+    }
+    .pricing-table .pricing-table-content{
+        padding: 20px 20px 30px 20px;
+    }
+    .pricing-table-content{
+        width: 350px;
+    }
+
+    .blog-hero-section{
+        padding: 262px 0;
+    }
+    .blog{
+        padding: 100px 0;
+    }
+    .blog .content {
+        gap: 50px;
+        justify-content: space-between;
+    }
+    .blog .title h2{
+        margin-bottom: 50px;
+    }
+    .contact-us{
+        padding: 262px 0;
+    }
+    .contact-us-section{
+        padding: 100px 0;
+    }
+    .contact-us-section .title{
+        margin-bottom: 50px;
+    }
+    .contact-us-section .content .email{
+        margin: 40px 0;
+    }
+    .contact-us-section .content .call{
+        gap: 44px;
+    }
+    .contact-us-section .content .email{
+        gap: 44px;
+    }
+    .contact-us-section .content .location{
+        gap: 44px;
+    }
+    .road-map{
+        padding: 100px 0;
+    }
+    .road-map .title h2{
+        margin-bottom: 50px;
+    }
+    .working-process .content-text::after{
+        content: '';
+        position: absolute;
+        width: 2px;
+        height: 375px;
+        background-color: var(--seconday-color);
+        color: red;
+        top: 26%;
+        left: 3.5%;
+    }
+    .footer .top-footer .logo-contact .logo{
+        margin-bottom: 00px;
+    }
+    .footer .top-footer .logo-contact p{
+        margin: 20px 0;
+    }
+    .footer .top-footer .follow-us{
+        margin-top: 0px;
+    }
+    .footer .top-footer .follow-us h6{
+        margin-bottom: 30px;
+    }
+    .footer .top-footer .links h6{
+        margin-bottom: 30px;
+    }
+    .footer .top-footer .community h6{
+        margin-bottom: 30px;
+    }
+    .footer .top-footer .information h6{
+        margin-bottom: 30px;
+    }
+    .footer .top-footer .links ul li{
+        margin-bottom: 20px;
+    }
+    .footer .top-footer .community ul li{
+        margin-bottom: 20px;
+    }
+    .footer .top-footer .information ul li{
+        margin-bottom: 20px;
+    }
+}
+
+@media (min-width: 1400px) {
+
+    .hero-section{
+        padding: 100px 0;
+    }
+    .hero-section .text-content p{
+        margin: 50px 0;
+    }
+    .features .content .content-1, .content-2, .content-3{
+
+        width: 400px;
+    }
+    .features .content{
+        gap: 0px;
+        justify-content: space-between;
+    }
+    .working-process .working-process-content .content-image{
+        width: 630px;
+    }  
+    .benefits .content .content-text{
+        width: 608px;
+    }
+    .latest-news .content {
+        gap: 0px;
+    }
+    .latest-news .blog-1{
+        width: 400px;
+    }
+    .latest-news .blog-2{
+        width: 400px;
+    }
+    .latest-news .blog-3{
+        width: 400px;
+    }
+    .r-content-1, .r-content-3, .r-content-5{
+        gap: 230px;
+    }
+    .r-content-2, .r-content-4, .r-content-6{
+        gap: 215px;
+    }
+    .pricing-table-content{
+        width: 400px;
+    }
+    .working-process .content-text::after{
+        content: '';
+        position: absolute;
+        width: 2px;
+        height: 370px;
+        background-color: var(--seconday-color);
+        color: red;
+        top: 24%;
+        left: 3%;
+    }
+}
